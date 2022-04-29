@@ -11,6 +11,7 @@ public class LogExp {
         logger.warn("warn message");
         logger.info("info message");
         logger.debug("debug message");
+        logger.trace("trace message");
 
     }
 
